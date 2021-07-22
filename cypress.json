@@ -1,0 +1,11 @@
+{
+  "baseUrl" : "https://www.saucedemo.com",
+  "reporter": "junit",
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "reporterOptions": {
+    "mochaFile": "results/my-test-output-[hash].xml",
+    "toConsole": true
+    
+   }
+}
